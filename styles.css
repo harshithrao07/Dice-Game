@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-color: #EE81B3;
+  color: #610C63;
+  font-weight: 400;
+  font-family: "DynaPuff";
+}
+h1 {
+  font-size: 5rem;
+  font-family: "Lobster";
+  margin: 50px auto;
+    text-shadow: 5px 0 #7A4069;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+.dice {
+  display: inline-block;
+  font-size: 2rem;
+}
+footer {
+  margin-top: 10%;
+}
+img{
+  width: 80%;
+}
